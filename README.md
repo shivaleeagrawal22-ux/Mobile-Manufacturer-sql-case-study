@@ -36,12 +36,12 @@ This project demonstrates end-to-end data analysis using industry-level SQL skil
 
 # 🚀 How to Use This Project
 
-Run **Database_Creation.sql** to create tables & load sample records.
-Open **SQL_Analysis_Solutions.sql** to run all analysis queries.
-Works with MySQL / PostgreSQL / SQL Server.
+Run **Database_Creation.sql** to create tables & load sample records.  
+Open **SQL_Analysis_Solutions.sql** to run all analysis queries.  
+Works with MySQL / PostgreSQL / SQL Server.  
 
 ✨ Author
 
-**Shivalee Agrawal**
-*Aspiring Data Analyst*
+**Shivalee Agrawal**  
+*Aspiring Data Analyst*  
 Skills: SQL • Power BI • Excel • Python
