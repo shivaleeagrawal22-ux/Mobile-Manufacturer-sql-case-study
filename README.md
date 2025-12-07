@@ -10,15 +10,15 @@ This project demonstrates end-to-end data analysis using industry-level SQL skil
 
 # 📁 Case Study Questions
 
-1️⃣ List all the states where customers bought cellphones from 2005 till today. 
-2️⃣ Which US state bought the most Samsung cellphones? 
-3️⃣ Show the number of transactions for each model per ZIP code per state. 
-4️⃣ Show the cheapest cellphone and its price. 
-5️⃣ Find the average price for each model for the top 5 manufacturers (based on sales quantity). Order by average price. 
-6️⃣ List customers whose average amount spent in 2009 was more than 500. 
-7️⃣ Identify models that were simultaneously in the top 5 (by quantity sold) in 2008, 2009, and 2010. 
-8️⃣ Find the manufacturer with the 2nd highest sales in 2009 and the manufacturer with the 2nd highest sales in 2010. 
-9️⃣ Show manufacturers who sold cellphones in 2010 but not in 2009.
+1️⃣ List all the states where customers bought cellphones from 2005 till today.   
+2️⃣ Which US state bought the most Samsung cellphones?   
+3️⃣ Show the number of transactions for each model per ZIP code per state.   
+4️⃣ Show the cheapest cellphone and its price.   
+5️⃣ Find the average price for each model for the top 5 manufacturers (based on sales quantity). Order by average price.   
+6️⃣ List customers whose average amount spent in 2009 was more than 500.   
+7️⃣ Identify models that were simultaneously in the top 5 (by quantity sold) in 2008, 2009, and 2010.   
+8️⃣ Find the manufacturer with the 2nd highest sales in 2009 and the manufacturer with the 2nd highest sales in 2010.   
+9️⃣ Show manufacturers who sold cellphones in 2010 but not in 2009.  
 🔟 Find the top 100 customers, along with their:
 - Average spend
 - Average quantity per year
