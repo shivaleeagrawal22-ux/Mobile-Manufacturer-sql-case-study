@@ -28,6 +28,7 @@ This project demonstrates end-to-end data analysis using industry-level SQL skil
 
 - SQL Joins (INNER, LEFT)
 - Subqueries
+- CTEs
 - Window Functions (ROW_NUMBER, RANK, LEAD, LAG)
 - Aggregations (SUM, AVG, COUNT)
 - GROUP BY, ORDER BY
