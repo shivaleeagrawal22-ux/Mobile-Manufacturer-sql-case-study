@@ -41,7 +41,7 @@ Run **Database_Creation.sql** to create tables & load sample records.
 Open **SQL_Analysis_Solutions.sql** to run all analysis queries.  
 Works with MySQL / PostgreSQL / SQL Server.  
 
-✨ Author
+# ✨ Author
 
 **Shivalee Agrawal**  
 *Aspiring Data Analyst*  
